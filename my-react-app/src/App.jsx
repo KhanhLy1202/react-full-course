@@ -1,7 +1,7 @@
-import Button from './Button.jsx';
+import Count from './Count.jsx';
 
 function App() {
-	return <Button />;
+	return <Count />;
 }
 
 export default App;
