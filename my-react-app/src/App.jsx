@@ -1,7 +1,7 @@
-import Count from './Count.jsx';
+import Form from './Form.jsx';
 
 function App() {
-	return <Count />;
+	return <Form />;
 }
 
 export default App;
