@@ -1,7 +1,7 @@
-import ColorPicker from './ColorPicker.jsx';
+import Count from './Count.jsx';
 
 function App() {
-	return <ColorPicker />;
+	return <Count />;
 }
 
 export default App;

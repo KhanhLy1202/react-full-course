@@ -4,14 +4,17 @@ function Count() {
 	const [count, setCount] = useState(0);
 
 	const increate = () => {
-		setCount(count + 1);
+		setCount((c) => c + 1);
+		setCount((c) => c + 1);
+		setCount((c) => c + 1);
 	};
 
 	const reset = () => {
 		setCount(0);
 	};
 	const dicreate = () => {
-		setCount(count - 1);
+		setCount((c) => c - 1);
+		setCount((c) => c - 1);
 	};
 
 	return (
