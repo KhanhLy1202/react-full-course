@@ -1,7 +1,7 @@
-import Form from './Form.jsx';
+import ColorPicker from './ColorPicker.jsx';
 
 function App() {
-	return <Form />;
+	return <ColorPicker />;
 }
 
 export default App;
