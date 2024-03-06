@@ -1,7 +1,7 @@
-import Count from './Count.jsx';
+import UpdateCarObj from './UpdateCarObj.jsx';
 
 function App() {
-	return <Count />;
+	return <UpdateCarObj />;
 }
 
 export default App;
